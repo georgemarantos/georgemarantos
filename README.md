@@ -25,8 +25,7 @@ Outside of work, I am passionate about fitness, diet, and biohacking. I believe 
 
 In my free time, you might find me exploring new workout regimens, researching nutritional strategies, or diving into the latest advancements in biohacking.
 
-My GitHub aims to be a source of information for all the topics I am passionate about.
-
+My GitHub is a platform where I share my ongoing projects, showcase my technical skills, and collaborate with others who share my passion for Azure, cloud architecture, and continuous learning.
 
 <!--
 **georgemarantos/georgemarantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
